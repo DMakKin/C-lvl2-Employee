@@ -1,0 +1,20 @@
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\bin\Debug\EmploeeList 2.exe.config
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\bin\Debug\EmploeeList 2.exe
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\bin\Debug\EmploeeList 2.pdb
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.csprojAssemblyReference.cache
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\MainWindow.g.cs
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\App.g.cs
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2_MarkupCompile.cache
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2_MarkupCompile.lref
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\MainWindow.baml
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.g.resources
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList_2.Properties.Resources.resources
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.csproj.GenerateResource.cache
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.csproj.CoreCompileInputs.cache
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.exe
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmploeeList 2.pdb
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmpWindow.g.cs
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\EmpWindow.baml
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\DepWindow.g.cs
+C:\С#\Первая четверть\С# 2lvl\EmploeeList 2\EmploeeList 2\obj\Debug\DepWindow.baml
